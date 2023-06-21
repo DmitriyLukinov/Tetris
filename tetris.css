@@ -27,3 +27,6 @@ button {
   display: block;
   margin-top: 30px; 
 }
+#manual {
+  font-size: 20px;
+}
